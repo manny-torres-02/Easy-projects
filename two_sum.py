@@ -15,8 +15,8 @@ class twoSum:
             print("False")
             return []
 
-class TwoSumDict():
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+# class TwoSumDict():
+#     def twoSum(self, nums: list[int], target: int) -> list[int]:
 
 
 
